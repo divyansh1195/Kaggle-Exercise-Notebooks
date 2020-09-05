@@ -1,2 +1,2 @@
 # Kaggle-ML-Exercise-Notebooks
-This repository contains my implementation of ML Kaggle Exercise Notebooks with various mini projects for academic and self learning purposes.
+This repository contains my implementation of ML Kaggle Exercise Notebooks for academic and self-learning purposes. In the given repository notebooks, I have implemented some basic processes involved in ML Data Processing like How to take care of Missing Values, Handling Categorical Variables, and operations like'Mapping', 'Grouping', 'Sorting',  'Renaming and Combining' etc. on Kaggle datasets. 
